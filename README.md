@@ -1,70 +1,21 @@
-# Getting Started with Create React App
+IMDB clone 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Having some bugs at the moment but its responsive.
 
-## Available Scripts
+Preview : 
 
-In the project directory, you can run:
+Full Screen View :
+<img width="1440" alt="1" src="https://github.com/FrozenSpirit/imdb-clone/assets/84676444/c5332225-45a3-476f-b45f-36f6a28e21b5">
 
-### `npm start`
+<img width="1440" alt="2" src="https://github.com/FrozenSpirit/imdb-clone/assets/84676444/1280a542-20c6-43fb-8a47-659b1eda337e">
+<img width="1440" alt="3" src="https://github.com/FrozenSpirit/imdb-clone/assets/84676444/5d7a4fd0-8a69-4c95-92cd-cc3583a7d534">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Genre Top Trending Selected : 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![Uploading 4.png…]()
+<img width="1440" alt="5" src="https://github.com/FrozenSpirit/imdb-clone/assets/84676444/e267a2b3-5172-437a-868e-6a4a2345c829">
 
-### `npm test`
+Mobile View : 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img width="1440" alt="6" src="https://github.com/FrozenSpirit/imdb-clone/assets/84676444/465d622c-5473-4bf8-abe2-5315c82decb9">
+<img width="1440" alt="7" src="https://github.com/FrozenSpirit/imdb-clone/assets/84676444/09ff419f-5207-4e12-8d6d-3b4b5c740743">
