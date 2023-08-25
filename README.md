@@ -6,7 +6,7 @@ Note: Having some minor bugs at the moment but its responsive.
 
 Preview : 
 
-Full Screen View :
+Desktop View :
 
 <img width="1440" alt="1" src="https://github.com/FrozenSpirit/imdb-clone/assets/84676444/c5332225-45a3-476f-b45f-36f6a28e21b5">
 <img width="1440" alt="2" src="https://github.com/FrozenSpirit/imdb-clone/assets/84676444/1280a542-20c6-43fb-8a47-659b1eda337e">
